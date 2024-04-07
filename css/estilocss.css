@@ -1,0 +1,45 @@
+ * { 
+ margin:0;
+ padding:0;
+ }
+ a:link, a:visited, a:hover, a:active {  /*las caracteristicas de los links*/
+ color:#9932CC;
+ font-size:16px;
+ }
+ body {  /*las caracteristicas de la pagina entera*/
+ background:#eee;
+ font-family:verdana;
+ }
+ h1 {  /*las caracteristicas del titulo*/
+ color:#fff;
+ font-size:24px;
+ }
+ p { /*las caracteristicas del texto*/
+ font-size:16px;
+ }
+ ul {
+ list-style-type:none;
+ }
+ #cabecera { /*las caracteristicas de la cabecera*/
+ color:#ff9;
+ background-color:#000;
+ padding:10px;
+ }
+ #contenedor {  /*las caracteristicas del cojunto de las partes*/
+ margin:0 auto;
+ width:800px;
+ }
+ #contenido {  /*las caracteristicas del contenido*/
+ background-color:#4141F4;
+ float:left;
+ height:500px;
+ padding:10px;
+ width:560px;
+ }
+ #menu {  /*las caracteristicas de los enlaces*/
+ background-color:#00008B;
+ float:left;
+ height:480px;
+ padding:20px;
+ width:180px;
+}
